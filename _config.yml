@@ -7,16 +7,16 @@ kramdown:
 
 # 作者信息
 author: 
-  name: 闫肃
-  email: suyan0830@gmail.com
-  link: http://yansu.org
-  weibo: http://weibo.com/yansu0711
-  github: http://github.com/suyan
+  name: Jason
+  email: hzqingzz@gmail.com
+  link: http://qingzz.github.io
+#  weibo: 
+  github: http://github.com/qingzz
 
 # 站点信息
-title: 闫肃的博客 
-description: 闫肃的博客
-url: http://yansu.org
+title: 迷津渡口
+description: 破迷津 通道境
+url: http://qingzz.github.io
 rss_url: /pages/atom.xml
 
 # avatar头像及Favicon
@@ -25,9 +25,9 @@ favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
 # google analytics 设置
 ga:
-  id: UA-54767140-1
-  url: yansu.org
+  id: UA-70604753-1
+  url: qingzz.github.io
 
 # disqus 设置
 disqus:
-  shortname: suyan-zh
+  shortname: qingzz
